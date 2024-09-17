@@ -1,1 +1,2 @@
-# .github
+# The Knight Digital Innovation Lounge + Lab (DiLL) at Locust Projects 🛜
+The Knight Digital Innovation Lounge + Lab (DiLL) at Locust Projects is a 1,000-square-foot space dedicated to advancing digital practices in the arts. As both an exhibition area and a workspace, the DiLL is designed to be adaptable, fostering an environment where artists can explore the cutting edge of creative digital production. The space supports a wide range of digital practices, from installation-based artworks and immersive projections to interactive technologies and collaborative workspaces, allowing for continuous innovation and experimentation.
